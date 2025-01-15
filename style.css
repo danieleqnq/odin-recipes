@@ -3,8 +3,7 @@ body {
   background-color: rgb(255, 233, 207);
   background-repeat: repeat-x;
   box-sizing: content-box;
-  margin: auto 500px;
-}
+  margin: auto 40px;
 
 h1 {
   text-align: center;
@@ -82,7 +81,6 @@ img {
   font-weight: 600;
   font-style: italic;
   text-align: center;
-  border:solid 5px rgb(73, 36, 22);
+  border: solid 5px rgb(73, 36, 22);
   border-radius: 30px;
-
 }
